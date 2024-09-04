@@ -15,7 +15,3 @@ have the right dependencies, please install the requirements as follows:
 ```commandline
 pip install -r requirements.txt
 ```
-
-
-# Authors
-- Gawaksh
